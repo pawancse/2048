@@ -3,11 +3,9 @@
   "version": "1.0.0",
   "displayName": "2048",
   "cordova": {
-    "platforms": [
-      "android"
-    ]
+    "platforms": []
   },
   "dependencies": {
-    "cordova-android": "~7.0.0"
+    "cordova-android": "^7.0.0"
   }
 }
