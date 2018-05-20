@@ -6,6 +6,8 @@
     "platforms": []
   },
   "dependencies": {
-    "cordova-android": "^7.0.0"
+    "cordova": "^8.0.0",
+    "cordova-android": "^7.0.0",
+    "phonegap": "^8.0.0"
   }
 }
